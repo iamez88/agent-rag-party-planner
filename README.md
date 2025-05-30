@@ -2,6 +2,8 @@
 
 An intelligent AI agent that helps you plan the perfect party using **Agentic RAG** with LangGraph. The agent combines semantic search over guest information with various tools for comprehensive party planning assistance.
 
+
+
 ## ✨ Core Features
 
 - 🎯 **Guest Information Retrieval**: Semantic search over guest database
@@ -57,8 +59,14 @@ The agent uses LangGraph's StateGraph to orchestrate tool usage:
 - **Enhanced Capabilities**: Connect to external services like calendar APIs, restaurant booking systems, and event management platforms
 - **Real-time Data**: Connect to live APIs for weather, traffic, and venue availability
 
+### Collecting Real World Data
+- Currently using a dummy data for the guest database
+- Next step is to create a database representative of the real-world guest population. Guests may include:
+    - Athletes such as Lebron James, 
+    - Celebrities such as Tom Cruise, Lady Gaga and Kim Kardashian
+    - AI Influencers such as Andrew Ng, Yann LeCun
+- Agent will be able to communicate at a deeper level, facilitating a more personalized experience.
+
 This will make the agent more extensible and capable of handling real-world party planning scenarios with live data integration.
 
----
 
-**Happy Party Planning! 🎊** 
