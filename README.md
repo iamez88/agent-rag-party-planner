@@ -2,7 +2,7 @@
 
 An intelligent AI agent that helps you plan the perfect party using **Agentic RAG** with LangGraph. The agent combines semantic search over guest information with various tools for comprehensive party planning assistance.
 
-
+![Demo Video](media/agentic_rag_demo.mp4)
 
 ## ✨ Core Features
 
